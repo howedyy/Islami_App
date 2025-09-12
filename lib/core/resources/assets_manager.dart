@@ -8,7 +8,9 @@ abstract class ImageAssets{
   static const String suraNumberBg = "$base/sura_number_bg1.png";
   static const String suraDetailsPatternLeft = "$base/sura_details_left_corner.png";
   static const String suraDetailsPatternRight = "$base/sura_details_right_corner.png";
-
+  static const String hadithTabBg = "$base/hadith_bg.png";
+  static const String hadithCardBg = "$base/hadith_card_background 1.png";
+  static const String hadithCardBottom = "$base/hadith_card_bottom.png";
 
 }
 
